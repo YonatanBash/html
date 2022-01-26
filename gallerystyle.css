@@ -1,0 +1,49 @@
+h1 {
+	 color:  #006666;
+	text-shadow: 10px 10px 5px white;
+	text-align: center;
+	font-size: 70px;
+	padding-top: 50px;
+}
+body {
+	background-color: grey; 
+	
+}
+h2 {
+	 
+	margin-top: -100px;
+	text-align: center;
+	
+
+	
+}
+.border {
+	border: 10px double white;
+	border-radius: 40px;
+	padding: 5px;
+	
+	
+}
+img:hover {
+	background-color:  #006666;
+}
+
+img {
+	width: 300px;
+	
+	
+}
+#margin {
+	margin-right: 50px;
+	margin-top: 50px;
+}
+
+#margin2{
+	margin-left: 540px;
+	
+}
+
+div {
+	text-align: center;
+	
+}
